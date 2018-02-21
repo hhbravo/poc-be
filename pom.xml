@@ -6,7 +6,7 @@
     <groupId>com.entelgy.demo</groupId>
     <artifactId>demo-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>demo-backend</name>
     <description>Demo project for Ripley</description>
